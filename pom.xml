@@ -50,7 +50,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>momojoop/${project.artifactId}:${project.version}</name>
+						<name>thiambabel/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
